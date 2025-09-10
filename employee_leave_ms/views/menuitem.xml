@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <!--    Leave Type-->
+    <menuitem id="leavetype_menuitem_root" name="Leave Type" action="action_leave_type" sequence="10"/>
+
+    <menuitem id="leaverequest_menuitem" name="Leave Request" action="action_leave_request"
+              parent="leavetype_menuitem_root" sequence="10"/>
+
+</odoo>

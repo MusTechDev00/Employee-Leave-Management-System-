@@ -1,0 +1,3 @@
+id,name,model_id:id,domain_force,groups:id
+manager_approve_leave,Manager Approve Leave,model_leave_request,"[('manager_id', '=', user.employee_ids.parent_id.id)]",base.group_erp_manager
+employee_cancel_leave,Employee Cancel Leave,model_leave_request,"[('employee_id', '=', user.employee_ids.id), ('state', 'in', ['draft','to_approve'])]",base.group_user

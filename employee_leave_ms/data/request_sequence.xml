@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <record id="request_sequence" model="ir.sequence">
+        <field name="name">Leave Request Sequence</field>
+        <field name="code">leave.request</field>
+        <field name="prefix">LREQ</field>
+        <field name="padding">4</field>
+<!--        <field name="company_id" eval="false"/>-->
+    </record>
+</odoo>
