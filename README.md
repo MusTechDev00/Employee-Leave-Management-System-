@@ -83,19 +83,3 @@ my_leave_management/
   * **Public Holiday Integration**: Consider holidays when calculating leave days.
   * **Email Notifications**: Implement email alerts for request status changes.
   * **Reporting**: Develop custom reports for leave analysis.
-
------
-
-### **How to Use This Description on GitHub**
-
-1.  **Create a Repository**: If you haven't already, create a new repository on GitHub for this project.
-2.  **`README.md` File**: Create a file named `README.md` in the root of your project folder.
-3.  **Copy and Paste**: Copy the content above into your `README.md` file.
-4.  **Customize**:
-      * Replace `"Your Name"` with your actual name.
-      * Update the "Odoo Version" if you used a different one.
-      * Add any specific details about *your* implementation that might be unique.
-      * If you have screenshots or a demo video, add links or embed them (GitHub supports markdown for this).
-5.  **Commit and Push**: Add the `README.md` file to your Git repository, commit it, and push it to GitHub.
-
-This README will serve as the landing page for your project on GitHub, providing a comprehensive overview for anyone viewing it. Good luck\!
